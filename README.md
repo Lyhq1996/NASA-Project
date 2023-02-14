@@ -1,5 +1,5 @@
 # NASA-Project
-• Developed a NASA launch system to enable scheduling, querying, and aborting launches to planets that may contain life.
+• Developed NASA launch apis to enable scheduling, querying, and aborting launches to planets that may contain life.
 
 • Followed MVC architecture to develop backend services in Node.js with Express and MongoDB Atlas.
 
